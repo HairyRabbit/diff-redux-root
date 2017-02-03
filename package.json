@@ -1,0 +1,16 @@
+{
+   "name": "workspace",
+   "version": "1.0.0",
+   "main": "index.js",
+   "scripts": {
+      "build": "node_modules\\.bin\\webpack"
+   },
+   "repository": {},
+   "license": "MIT",
+   "dependencies": {
+      "redux": "^3.6.0"
+   },
+   "devDependencies": {
+      "webpack": "2.2.0"
+   }
+}
